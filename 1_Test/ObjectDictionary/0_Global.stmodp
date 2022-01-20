@@ -1,0 +1,1 @@
+{"TempId":0,"Name":"Global","ProjectId":1,"DictionaryPageType":1,"Objects":[{"id":37,"name":"GlobalUser","project":{"id":1,"name":"Test","description":"Demo ","prjStatus":"ACTIVE"},"locatorType":{"id":4,"name":"Name","scope":"B|M|D"},"locator":"Atop","page":null,"outerHtml":null,"locatorTypeForIos":null,"locatorForIos":null}]}
